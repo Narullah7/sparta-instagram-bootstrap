@@ -1,11 +1,13 @@
 body {
-  background-color: blue;
+  background-color: #fafafa;
+  height: 850px;
 }
 
 .container-fluid {
   height: 100%;
   width: 100%;
   margin-top: 10px;
+  background-color: #fafafa;
 }
 
 .col-md-12 {
